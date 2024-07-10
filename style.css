@@ -409,12 +409,7 @@ button:focus {
     background-position: center;
     background-color: #ffc900;
 }
-@media (max-width: 768px) {
-    .about-bg {
-      height: 300px;  /* Adjust height for phone view */
-      width: 100%;    /* Full width for phone view */
-    }
-  }
+
 
 .social-aria a {
     color: #fff;
