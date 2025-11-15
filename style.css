@@ -623,6 +623,8 @@ button:focus {
 }
 
 .single-service:hover h2,
+.single-service:hover h5,
+.single-service:hover h6,
 .single-service:hover p {
     color: #fff
 }
