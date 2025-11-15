@@ -44,7 +44,8 @@
        Service Section
     ::::::::::::::::::::::::::::::::::::*/
     .service-area::before {
-        height: 100%;
+        height: auto;
+        min-height: 100%;
     }
 
     /*::::::::::::::::::::::::::::::::::::
@@ -153,7 +154,8 @@
        Service Section
     ::::::::::::::::::::::::::::::::::::*/
     .service-area::before {
-        height: 100%;
+        height: auto;
+        min-height: 100%;
 
     }
 
@@ -297,7 +299,8 @@
        Service Section
     ::::::::::::::::::::::::::::::::::::*/
     .service-area::before {
-        height: 100%;
+        height: auto;
+        min-height: 100%;
     }
 
     /*::::::::::::::::::::::::::::::::::::
